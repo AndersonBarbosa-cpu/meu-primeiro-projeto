@@ -1,2 +1,5 @@
 # meu primeiro projeto
- meu primeiro repositorio
+ meu primeiro repositório
+
+ repositório criado durante uma aula
+
